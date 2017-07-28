@@ -12,6 +12,6 @@ categories: main
 
     第二页实现了一个幻灯片播放的效果。
 
-该项目[源码地址][source]
+该项目[源码][jekyll]
 
-[source]：https://github.com/dongjiyu/HappyBirthday
+[jekyll]：https://github.com/dongjiyu/HappyBirthday
