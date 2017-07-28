@@ -1,0 +1,17 @@
+# Setup
+title:	      ITer
+tagline:      Step by step, and you will be success.
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       RuiLi
+  url:        https://github.com/dongjiyu/dongjiyu.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
