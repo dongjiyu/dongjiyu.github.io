@@ -62,6 +62,7 @@ categories: jekyll update
    
 *                                                 未完待续...  
 
+![My helpful screenshot]({{ "/pictures/1.jpg" | absolute_url }})
 
 
 
