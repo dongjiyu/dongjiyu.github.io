@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITer的大学生活之大二"
+title: "大学生活之大二"
 date:   2016-07-08 09:50:20 +0800
 categories: jekyll update
 ---
