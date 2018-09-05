@@ -15,5 +15,6 @@ categories: jekyll update
 *   在清华园蹭了一下学历。![screenshot3]({{ "/pictures/13.jpg" | absolute_url }})
 *   接下来是手搓麻将，反之不是我输的最惨，哈哈哈。![screenshot4]({{ "/pictures/14.jpg" | absolute_url }})
 *   然后是万里长城，好汉是当定了，因为我们爬过了北7楼。![screenshot5]({{ "/pictures/15.jpg" | absolute_url }}) ![screenshot6]({{ "/pictures/17.jpg" | absolute_url }})
-*   两个傻子在傻笑。
-<img src="/pictures/16.jpg" style="max-width: 300px;max-height: 300px;"/>
+*   <p>两个傻子在傻笑。</p>
+<img src="/pictures/16.jpg" style="max-width: 300px;"/>
+<img src="/pictures/17.jpg" style="max-width: 300px;"/>
