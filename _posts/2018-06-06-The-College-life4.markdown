@@ -28,10 +28,10 @@ categories: jekyll update
 
 <div>
 <p>
-<img src="/pictures/14.jpg" align="left" width="500" height="281"/>
-<img src="/pictures/13.jpg" align="right" width="300" height="400"/>
-<img src="/pictures/17.jpg" align="left" width="300" height="400"/>
-<img src="/pictures/16.jpg" align="right" width="500" height="281"/>
+<img src="/pictures/14.jpg"  width="500" height="281"/>
+<img src="/pictures/13.jpg"  width="300" height="400"/>
+<img src="/pictures/17.jpg"  width="300" height="400"/>
+<img src="/pictures/16.jpg"  width="500" height="281"/>
 </p>
 </div>
 
